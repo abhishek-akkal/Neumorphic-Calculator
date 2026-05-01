@@ -94,6 +94,10 @@ nav {
 
 .code {
   background-color: #444857;
+}
+
+.code a {
+  text-decoration: none;
   color: #ffffff;
 }
 
