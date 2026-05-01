@@ -436,3 +436,66 @@ body:not(.dark) .buttons .zero {
 .dot {
   grid-area: dot;
 }
+
+@media (max-width: 480px) {
+  .Calculator {
+    width: 95%;
+    max-width: 340px;
+    height: auto;
+    margin: 20px auto;
+    padding-bottom: 15px;
+  }
+
+  .buttons {
+    gap: 12px;
+    padding: 16px;
+  }
+  .buttons buttons {
+    min-height: 52px;
+    font-size: 15px;
+  }
+
+  .display {
+    height: 85px;
+    font-size: 20px;
+    margin: 15px;
+  }
+
+  main {
+    margin-top: 140px;
+  }
+
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+  .right {
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .right button {
+    flex: 1 1 auto;
+    height: 32px;
+    font-size: 12px;
+    padding: 4px 6px;
+  }
+
+  .toggle {
+    top: -55px;
+  }
+}
+
+@media (max-width: 375px) {
+  .Calculator {
+    width: 92%;
+    max-width: none;
+  }
+}
