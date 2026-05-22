@@ -3,7 +3,7 @@
 A modern, responsive calculator built using **HTML, CSS, and JavaScript** with a clean **neumorphic UI design** and smooth user interactions.
 
 🌐 **Live Demo:**
-👉 https://abhishek-akkal.github.io/Neumorphic-Calculator/
+👉 https://social-nest-m39k.vercel.app/
 
 ---
 
