@@ -496,6 +496,27 @@ body:not(.dark) .buttons .zero {
     top: -3M0px;
   }
 }
+@media (max-width: 320px) {
+  .Calculator {
+    width: 95%;
+    max-width: 280px;
+  }
+
+  .buttons {
+    gap: 8px;
+    padding: 12px;
+  }
+
+  .buttons button {
+    min-height: 50px;
+    font-size: 14px;
+  }
+
+  .display {
+    height: 80px;
+    font-size: 18px;
+  }
+}
 
 @media (max-width: 375px) {
   .Calculator {
