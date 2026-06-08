@@ -47,6 +47,6 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with a
 **Abhishek Akkal**
 
 - LinkedIn: https://www.linkedin.com/in/abhishek-akkal-0a0ab62b2/
-<!-- - X (Twitter): https://x.com/AkkalAbhishek -->
+- X (Twitter): https://x.com/AkkalAbhishek
 
 ---
