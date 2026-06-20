@@ -8,7 +8,7 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with a
 ---
 
 ## 📸 Preview
-(Watch)
+(Watch Neumorphic)
 
 ## ✨ Features
 
