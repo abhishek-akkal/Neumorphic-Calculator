@@ -8,7 +8,7 @@ A modern, responsive calculator built using **HTML, CSS, and JavaScript** with a
 ---
 
 ## 📸 Preview
-[Watch Neumorphic Calculator Demo(https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_javascript-reactjs-webdevelopment-activity-7465051842587017216-_Iup?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk)
+[Watch Neumorphic Calculator Demo](https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_javascript-reactjs-webdevelopment-activity-7465051842587017216-_Iup?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk)
 
 ## ✨ Features
 
